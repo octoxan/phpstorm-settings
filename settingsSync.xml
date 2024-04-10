@@ -1,0 +1,19 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="com.coder.gateway" />
+              <option value="com.github.catppuccin.jetbrains" />
+              <option value="com.github.catppuccin.jetbrains_icons" />
+              <option value="com.intellij.ideolog" />
+              <option value="mobi.hsz.idea.gitignore" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="coder.cbm-linkedxl" id="f5b03708-d510-4f81-9aac-0907ddcaaa12" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="embold" useOpenSSHConfig="true" />
+      <sshConfig host="coder.rbpoabeachservice" id="c4928895-417d-4293-92a1-10356f7716e0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="embold" useOpenSSHConfig="true" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:60}" host="coder.xettex" id="6f4d5b7e-7642-4752-8498-8ed5760c4f90" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="embold" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
